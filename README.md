@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesh
 - 👀 I’m interested in ...webDevelopment |blockChain | UI/UX and graphic design
 - 🌱 I’m currently learning ...javaScript
-- 💞️ I’m looking to collaborate on ...webDevelopment projects and design
+- 💞️ I’m looking to collaborate on ...webApplication projects and designs
 - 📫 How to reach me ...iamdinesh.freelancer@gmail.com
 
 <!---
