@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dinesh
-- 👀 I’m interested in ...webDevelopment |blockChain | UI/UX and graphic design
+- 👀 I’m interested in ...webDevelopment , UI/UX and graphic design
 - 🌱 I’m currently learning ...javaScript
 - 💞️ I’m looking to collaborate on ...webApplication projects and designs
-- 📫 How to reach me ...iamdinesh.freelancer@gmail.com
+- 📫 How to reach me ...iamdineshbot@gmail.com
 
 <!---
 Dinesh-a-coder/Dinesh-a-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
